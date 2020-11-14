@@ -33,6 +33,7 @@ int main()
   for(i=count;i>=0;i--)
   {
     printf("%d",s[i]);
+    printf("\n");
   }
 
 
